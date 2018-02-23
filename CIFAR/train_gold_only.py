@@ -253,7 +253,7 @@ def test():
 
 # Main loop
 for epoch in range(start_epoch, args.epochs):
-    continue  # for the rebuttal experiment, we skip this training step
+    continue  # we skip this training step
 
     # if epoch < 150:
     #     state['learning_rate'] = state['init_learning_rate']
