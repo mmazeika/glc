@@ -4,7 +4,7 @@ This repository contains the code for the paper
 
 [Using Trusted Data to Train Deep Networks on Labels Corrupted by Severe Noise](http://arxiv.org/abs/1802.05300).
 
-Requires Python 3+ and PyTorch 0.3+.
+The code requires Python 3+ and PyTorch 0.3+.
 
 <img align="center" src="glc_plots_figure.png" width="750">
 
