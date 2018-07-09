@@ -10,7 +10,7 @@ from helper_functions_twitter import *
 parser = argparse.ArgumentParser(description='Twitter label corruption experiments')
 parser.add_argument('--method', default='combo', type=str, choices=['ours', 'forward', 'forward_gold', 'ideal', 'confusion', 'combo'])
 parser.add_argument('--corruption_type', default='flip_labels', type=str, choices=['uniform_mix', 'flip_labels'])
-parser.add_argument('--lambda_choice', choices=['theirs', '1_minus_theirs', '0.5'])
+parser.add_argument('--lambda_choice', default='theirs', choices=['theirs', '1_minus_theirs', '0.5'])
 args = parser.parse_args()
 print(args)
 
