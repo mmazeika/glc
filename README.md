@@ -34,6 +34,6 @@ If you find this useful in your research, please consider citing:
     @article{hendrycks2018glc,
       title={Using Trusted Data to Train Deep Networks on Labels Corrupted by Severe Noise},
       author={Hendrycks, Dan and Mazeika, Mantas and Wilson, Duncan and Gimpel, Kevin},
-      journal={arXiv preprint arXiv:1802.05300},
+      journal={Advances in Neural Information Processing Systems},
       year={2018}
     }
