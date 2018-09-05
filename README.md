@@ -2,7 +2,7 @@
 
 This repository contains the code for the paper
 
-[Using Trusted Data to Train Deep Networks on Labels Corrupted by Severe Noise](http://arxiv.org/abs/1802.05300).
+[Using Trusted Data to Train Deep Networks on Labels Corrupted by Severe Noise (NIPS 2018)](http://arxiv.org/abs/1802.05300).
 
 The code requires Python 3+, PyTorch [0.3, 0.4), and TensorFlow (for loading MNIST).
 
